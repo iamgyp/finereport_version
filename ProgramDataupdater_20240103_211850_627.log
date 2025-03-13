@@ -1,0 +1,18 @@
+20240103-211850-627: arg0: C:\Program Files (x86)\i4Tools7\updater.exe
+
+20240103-211850-627: arg1: /replace
+
+20240103-211850-627: arg2: /dontLaunch
+
+20240103-211850-627: arg3: /version
+
+20240103-211850-627: arg4: 7.98.80.002
+
+20240103-211850-627: arg5: /config
+
+20240103-211850-627: arg6: C:\Program Files (x86)\i4Tools7\cache\update_temp\config.xml
+
+20240103-211850-678: EnsurePathCreate C:\Program Files (x86)\i4Tools7\cache\update_temp\.
+20240103-211850-678: Fill with Ver, http://url.i4.cn/update?v=.
+20240103-211850-678: Loading local config.
+20240103-211850-678: Parsing config...
